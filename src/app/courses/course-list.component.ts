@@ -14,7 +14,7 @@ export class CourseListComponent implements OnInit {
             {
                 id: 1,
                 name: 'Agunlar: Forms',
-                imageUrl: '',
+                imageUrl: '/assets/images/forms.png',
                 price: 99.99,
                 code: 'XPTO-0000',
                 duration: 120,
@@ -24,7 +24,7 @@ export class CourseListComponent implements OnInit {
             {
                 id: 2,
                 name: 'Agunlar: HTTP',
-                imageUrl: '',
+                imageUrl: '/assets/images/http.png',
                 price: 45.99,
                 code: 'XPTO-0001',
                 duration: 80,
